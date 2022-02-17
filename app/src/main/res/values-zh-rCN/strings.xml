@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">井字棋</string>
+    <string name="startanewgame">开始新一局游戏</string>
+    <string name="Itisandroidsturn">等待电脑走</string>
+    <string name="itsyourturn">轮到你走啦！</string>
+    <string name="exit">退出</string>
+    <string name="Itisatie">平局</string>
+    <string name="Youwon">恭喜你赢了！</string>
+    <string name="Androidwon">不好意思你输了，电脑赢了！</string>
+    <string name="Yougofirst"> 你先走</string>
+</resources>

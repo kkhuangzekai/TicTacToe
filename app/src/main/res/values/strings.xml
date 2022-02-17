@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="startanewgame">Start a New Game</string>
+    <string name="Itisandroidsturn">It\'s Android\'s turn.</string>
+    <string name="itsyourturn">It\'s your turn (X).</string>
+    <string name="exit">exit</string>
+    <string name="Itisatie">It\'s a tie!</string>
+    <string name="Youwon">Congratulation!You won!</string>
+    <string name="Androidwon">Computer won!</string>
+    <string name="Yougofirst">You go first.</string>
+</resources>
